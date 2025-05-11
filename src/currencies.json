@@ -1,0 +1,38 @@
+[
+  {
+    "code": "USD",
+    "numericCode": "840",
+    "name": "United States Dollar",
+    "symbol": "$",
+    "decimalDigits": 2,
+    "namePlural": "US dollars",
+    "regions": ["US", "EC", "AS"]
+  },
+  {
+    "code": "EUR",
+    "numericCode": "978",
+    "name": "Euro",
+    "symbol": "€",
+    "decimalDigits": 2,
+    "namePlural": "euros",
+    "regions": ["EU"]
+  },
+  {
+    "code": "JPY",
+    "numericCode": "392",
+    "name": "Japanese Yen",
+    "symbol": "¥",
+    "decimalDigits": 0,
+    "namePlural": "yen",
+    "regions": ["JP"]
+  },
+  {
+    "code": "INR",
+    "numericCode": "356",
+    "name": "Indian Rupee",
+    "symbol": "₹",
+    "decimalDigits": 2,
+    "namePlural": "rupees",
+    "regions": ["IN"]
+  }
+]

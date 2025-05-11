@@ -1,5 +1,5 @@
 {
-  "name": "currenzy",
+  "name": "currency-kit",
   "version": "0.1.0",
   "description": "A simple utility to format currency values with locale, abbreviation, and rounding support.",
   "main": "dist/index.js",
