@@ -1,10 +1,13 @@
 {
-  "name": "currency-kit",
-  "version": "0.1.0",
+  "name": "@mohitgadhavi1/currency-kit",
+  "version": "0.2.0",
   "description": "A simple utility to format currency values with locale, abbreviation, and rounding support.",
   "main": "dist/index.js",
   "type": "module",
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest"
